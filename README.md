@@ -1,19 +1,23 @@
-# inventario (inventario)
+# soho (soho)
 
-inventario ti
+soho 
 
-## Install the dependencies
+## Instalar el framework
+```bash
+npm install -g @quasar/cli
+```
+## Instalar dependencias
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar el Servidor (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
 
 
-### Build the app for production
+### Compilar para produccionn
 ```bash
 quasar build
 ```
