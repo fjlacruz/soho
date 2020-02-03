@@ -36,5 +36,5 @@ yarn-error.log*
 
 #ignorando configuracion
 
-config/
-env.js
+#config/
+#env.js
