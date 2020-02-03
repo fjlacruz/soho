@@ -24,3 +24,7 @@ quasar build
 
 ### Personalizar configuraciones
 Vea [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+
+### Configuracion del endpoint
+/src/config/env.js
