@@ -28,6 +28,9 @@ quasar build
 ### Configuracion del endpoint
 /src/config/env.js
 
+## Credenciales de acceso
+Rut:12345678 / clave:1234
+
 ### Personalizar configuraciones
 Vea [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
